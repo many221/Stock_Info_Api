@@ -1,8 +1,6 @@
 package com.stockInfo.stockInfo.controllers;
 
 import com.stockInfo.stockInfo.models.StockModel;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
 
